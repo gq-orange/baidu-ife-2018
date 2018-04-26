@@ -6,6 +6,7 @@ Day1:
 
 参考资料：
 git版本控制  
-http://www.cnblogs.com/lijiayi/p/githubpages.html
-https://www.cnblogs.com/liuleilei/p/6533177.html
-https://markyun.github.io/2015/instruction-Git/     
+1.http://www.cnblogs.com/lijiayi/p/githubpages.html
+2.https://www.cnblogs.com/liuleilei/p/6533177.html
+3.https://markyun.github.io/2015/instruction-Git/
+4.http://ife.baidu.com/note/detail/id/144
